@@ -1,0 +1,99 @@
+@keyframes bodyTopDance-Pop {
+  50% {
+    //transform: rotate(-20deg);
+  }
+}
+@keyframes headDance-Pop {
+  50% {
+    transform: rotate(5deg);
+  }
+}
+@keyframes firstHandLeft-Pop {
+  0% {
+    transform: rotate(30deg);
+  }
+  50% {
+    transform: rotate(40deg);
+  }
+  100% {
+    transform: rotate(30deg);
+  }
+}
+@keyframes firstHandRight-Pop {
+  0% {
+    transform: rotate(-30deg);
+  }
+  50% {
+    transform: rotate(-40deg);
+  }
+  100% {
+    transform: rotate(-30deg);
+  }
+}
+@keyframes secondHandLeft-Pop {
+  0% {
+    transform: rotate(-200deg);
+  }
+  50% {
+    transform: rotate(-180deg);
+  }
+  100% {
+    transform: rotate(-200deg);
+  }
+}
+@keyframes secondHandRight-Pop {
+  0% {
+    transform: rotate(200deg);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  100% {
+    transform: rotate(200deg);
+  }
+}
+
+@keyframes firstLegRight-Pop {
+  0% {
+    transform: rotate(-15deg);
+  }
+
+  50% {
+    transform: rotate(-25deg);
+  }
+  100% {
+    transform: rotate(-15deg);
+  }
+}
+@keyframes secondLegRight-Pop {
+  50% {
+    // transform: rotate(250deg);
+  }
+}
+@keyframes stepLegRight-Pop {
+  50% {
+    // transform: rotate(100deg);
+  }
+}
+@keyframes firstLegLeft-Pop {
+  0% {
+    transform: rotate(15deg);
+  }
+
+  50% {
+    transform: rotate(25deg);
+  }
+  100% {
+    transform: rotate(15deg);
+  }
+}
+@keyframes secondLegLeft-Pop {
+  50% {
+    //transform: rotate(-250deg);
+  }
+}
+@keyframes stepLegLeft-Pop {
+  50% {
+    //  transform: rotate(-100deg);
+  }
+}

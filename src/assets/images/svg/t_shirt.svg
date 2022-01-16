@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.vi-primary {
+        fill: #FF6E6E;
+      }
+
+      .vi-primary, .vi-accent {
+        fill-rule: evenodd;
+      }
+
+      .vi-accent {
+        fill: #0C0058;
+      }</style>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path class="vi-primary" d="m39,25.176472l-3,-4.235294l0,31.058825l-20,0l0,-31.058825l-3,4.235294l-5,-7.058824l8.952,-14.117648l18.1,0l8.948,14.117648l-5,7.058824z" fill="black" id="svg_1"/>
+  <path class="vi-accent" d="m21,6l9,0a4.5,6.529412 0 0 1 -9,0zm-3,34.823528l15,0l0,2.176471l-15,0l0,-2.176471z" fill="black" id="svg_2"/>
+ </g>
+</svg>

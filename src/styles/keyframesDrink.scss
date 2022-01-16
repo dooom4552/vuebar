@@ -1,0 +1,81 @@
+@keyframes bodyTopDance-Drink {
+  50% {
+    //transform: rotate(-20deg);
+  }
+}
+@keyframes headDance-Drink {
+  50% {
+    //transform: translate(-10px, 10px);
+  }
+}
+@keyframes firstHandLeft-Drink {
+  50% {
+    // transform: rotate(70deg);
+  }
+}
+@keyframes firstHandRight-Drink {
+  50% {
+    // transform: rotate(-70deg);
+  }
+}
+@keyframes secondHandLeft-Drink {
+  50% {
+    //  transform: rotate(-100deg);
+  }
+}
+@keyframes secondHandRight-Drink {
+  0% {
+    transform: rotate(45deg);
+  }
+  50% {
+    transform: rotate(20deg);
+  }
+  100% {
+    transform: rotate(140deg);
+  }
+}
+
+@keyframes firstLegRight-Drink {
+  0% {
+    //  transform: rotate(-60deg);
+  }
+
+  50% {
+    // transform: rotate(-70deg);
+  }
+  100% {
+    //transform: rotate(-60deg);
+  }
+}
+@keyframes secondLegRight-Drink {
+  50% {
+    // transform: rotate(250deg);
+  }
+}
+@keyframes stepLegRight-Drink {
+  50% {
+    // transform: rotate(100deg);
+  }
+}
+@keyframes firstLegLeft-Drink {
+  0% {
+    // transform: rotate(60deg);
+  }
+
+  50% {
+    // transform: rotate(70deg);
+  }
+  100% {
+    // transform: rotate(60deg);
+  }
+}
+@keyframes secondLegLeft-Drink {
+  50% {
+    //transform: rotate(-250deg);
+  }
+}
+@keyframes stepLegLeft-Drink {
+  50% {
+    //  transform: rotate(-100deg);
+  }
+}

@@ -1,0 +1,75 @@
+@keyframes bodyTopDance-ElectrodanceHouse {
+  50% {
+    transform: rotate(-20deg);
+  }
+}
+@keyframes headDance-ElectrodanceHouse {
+  50% {
+    //transform: translate(-10px, 10px);
+  }
+}
+@keyframes firstHandLeft-ElectrodanceHouse {
+  50% {
+    transform: rotate(70deg);
+  }
+}
+@keyframes firstHandRight-ElectrodanceHouse {
+  50% {
+    transform: rotate(-70deg);
+  }
+}
+@keyframes secondHandLeft-ElectrodanceHouse {
+  50% {
+    transform: rotate(-360deg);
+  }
+}
+@keyframes secondHandRight-ElectrodanceHouse {
+  50% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes firstLegRight-ElectrodanceHouse {
+  0% {
+    transform: rotate(-20deg);
+  }
+
+  50% {
+    transform: rotate(-20deg);
+  }
+  100% {
+    transform: rotate(-20deg);
+  }
+}
+@keyframes secondLegRight-ElectrodanceHouse {
+  50% {
+    transform: rotate(200deg);
+  }
+}
+@keyframes stepLegRight-ElectrodanceHouse {
+  50% {
+    transform: rotate(100deg);
+  }
+}
+@keyframes firstLegLeft-ElectrodanceHouse {
+  0% {
+    transform: rotate(20deg);
+  }
+
+  50% {
+    transform: rotate(20deg);
+  }
+  100% {
+    transform: rotate(20deg);
+  }
+}
+@keyframes secondLegLeft-ElectrodanceHouse {
+  50% {
+    transform: rotate(-200deg);
+  }
+}
+@keyframes stepLegLeft-ElectrodanceHouse {
+  50% {
+    transform: rotate(-100deg);
+  }
+}

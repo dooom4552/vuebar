@@ -1,0 +1,75 @@
+@keyframes bodyTopDance-RnbHipHop {
+  50% {
+    transform: rotate(-20deg);
+  }
+}
+@keyframes headDance-RnbHipHop {
+  50% {
+    transform: translate(-10px, 10px);
+  }
+}
+@keyframes firstHandLeft-RnbHipHop {
+  50% {
+    transform: rotate(70deg);
+  }
+}
+@keyframes firstHandRight-RnbHipHop {
+  50% {
+    transform: rotate(-70deg);
+  }
+}
+@keyframes secondHandLeft-RnbHipHop {
+  50% {
+    transform: rotate(-100deg);
+  }
+}
+@keyframes secondHandRight-RnbHipHop {
+  50% {
+    transform: rotate(100deg);
+  }
+}
+
+@keyframes firstLegRight-RnbHipHop {
+  0% {
+    transform: rotate(-60deg);
+  }
+
+  50% {
+    transform: rotate(-70deg);
+  }
+  100% {
+    transform: rotate(-60deg);
+  }
+}
+@keyframes secondLegRight-RnbHipHop {
+  50% {
+    transform: rotate(250deg);
+  }
+}
+@keyframes stepLegRight-RnbHipHop {
+  50% {
+    transform: rotate(100deg);
+  }
+}
+@keyframes firstLegLeft-RnbHipHop {
+  0% {
+    transform: rotate(60deg);
+  }
+
+  50% {
+    transform: rotate(70deg);
+  }
+  100% {
+    transform: rotate(60deg);
+  }
+}
+@keyframes secondLegLeft-RnbHipHop {
+  50% {
+    transform: rotate(-250deg);
+  }
+}
+@keyframes stepLegLeft-RnbHipHop {
+  50% {
+    transform: rotate(-100deg);
+  }
+}
