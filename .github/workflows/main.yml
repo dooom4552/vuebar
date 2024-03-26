@@ -1,0 +1,11 @@
+name: Build
+on: 
+  push
+jobs:
+  build:
+    runs-on: self-hosted 
+    steps:
+      - name: Run Ps 1 script
+        shell: pwsh
+        run: |
+          Invoke-Pester init_test_api.ps1 -Passthru
